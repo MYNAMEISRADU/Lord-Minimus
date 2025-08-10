@@ -1,2 +1,2 @@
 # Lord-Minimus
-Balatro mod - small content addition packagee
+Balatro mod - small content addition package
