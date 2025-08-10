@@ -1,0 +1,18 @@
+{
+	"id": "lord_minimus",
+	"name": "Lord Minimus",
+	"author": ["RADU"],
+	"description": "Minimalistic content add-on",
+	"prefix": "Minim", 
+	"main_file": "main.lua",
+	"priority": -20,
+	"badge_colour": "a08bc9", 
+	"badge_text_colour": "1c152b",
+	"display_name": "Minim", 
+	"version": "0.0.0a", 
+	"dependencies": [
+		"Steamodded (>=1.*)", 
+		"Lovely (>=0.6)"
+	], 
+	"dump_loc": false
+}
